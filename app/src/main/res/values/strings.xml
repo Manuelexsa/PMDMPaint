@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Davincci!!!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="pincel">Pincel</string>
+    <string name="color">Color</string>
+    <string name="grosor">Grosor</string>
+    <string name="figuras">Figuras</string>
+    <string name="Tipo">Tipo de Pincel</string>
+    <string name="mano">Estilo Libre</string>
+    <string name="recta">Recta</string>
+    <string name="circulo">Circulo</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="save">Guardar</string>
+    <string name="load">Cargar</string>
+    <string name="goma">Goma</string>
+    <string name="nombre_fichero">Nombre</string>
+    <string name="nombreguardar">Nombre del dibujo</string>
+    <string name="errornombre">Escibe el nombre para guardar el dibujo</string>
+
+</resources>

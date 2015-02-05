@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="figuras">
+        <item>Recta</item>
+        <item>Mano alzada</item>
+        <item>Rectangulo</item>
+        <item>Circulo</item>
+        <item>Sprite</item>
+    </string-array>
+</resources>

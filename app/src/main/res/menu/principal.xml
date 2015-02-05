@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item
+        android:id="@+id/action_new"
+        android:icon="@drawable/paleta_pintura"
+        android:title="*"
+        android:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/recta"
+        android:title="@string/recta"
+        android:orderInCategory="100"
+        android:icon="@drawable/recta_dib"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/mano"
+        android:title="@string/mano"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/circulo"
+        android:title="@string/circulo"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/rectangulo"
+        android:title="@string/rectangulo"
+        android:icon="@drawable/icon_cabecera"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+
+    <item android:id="@+id/color"
+        android:title="@string/color"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/goma"
+        android:title="@string/goma"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+
+    <item android:id="@+id/save"
+        android:title="@string/save"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+    <item android:id="@+id/load"
+        android:title="@string/load"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        />
+
+</menu>
